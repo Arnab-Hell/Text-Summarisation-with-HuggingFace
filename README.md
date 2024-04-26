@@ -40,7 +40,7 @@
 </p>
 
 
-![-----------------------------------------------------](assets/rgb.png)
+![-----------------------------------------------------](doc/rgb.png)
 
 
 <!-- Documentation -->
@@ -59,7 +59,7 @@ Refer the following documents for better understanding of the dimensions of proj
 </ul>
 
 
-![-----------------------------------------------------](assets/rgb.png)
+![-----------------------------------------------------](doc/rgb.png)
 
 
 <!-- OVERVIEW -->
@@ -74,7 +74,7 @@ representation of the content is built. Then natural language generation mechani
 </p>
 
 
-![-----------------------------------------------------](assets/rgb.png)
+![-----------------------------------------------------](doc/rgb.png)
 
 
 <!-- BUILD WITH -->
@@ -101,7 +101,7 @@ representation of the content is built. Then natural language generation mechani
 </a>
 
 
-![-----------------------------------------------------](assets/rgb.png)
+![-----------------------------------------------------](doc/rgb.png)
 
 
 <!-- PROJECT FILES DESCRIPTION -->
@@ -122,7 +122,7 @@ representation of the content is built. Then natural language generation mechani
 - **templates** - Templates of flask app
   
 
-![-----------------------------------------------------](assets/rgb.png)
+![-----------------------------------------------------](doc/rgb.png)
 
 
 <!-- GETTING STARTED -->
@@ -152,7 +152,7 @@ This is how you can set up your project locally. To get a local copy up and runn
 **Note:-** After step 5 make sure to create your MongoDB database and dump the base dataset `rul.csv` in it using `data_dump.py` script after updating MongoDb client in it and also don't forget to create `.env` file and mention your MongoDb credential within it which are accessed by the `config.py` in `rul` package to run the pipelines. 
 
 
-![-----------------------------------------------------](assets/rgb.png)
+![-----------------------------------------------------](doc/rgb.png)
 
 
 <!-- Showcase -->
@@ -183,7 +183,7 @@ This is how you can set up your project locally. To get a local copy up and runn
 <a href="https://drive.google.com/file/d/14HazGAvVN9XcPZuk_mXXZ9oR06NvWi5I/view?usp=sharing" target="_blank"><b>Demo Video</b></a>
 
 
-![-----------------------------------------------------](assets/rgb.png)
+![-----------------------------------------------------](doc/rgb.png)
 
 
 <!-- Contribution -->
@@ -200,7 +200,7 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-![-----------------------------------------------------](assets/rgb.png)
+![-----------------------------------------------------](doc/rgb.png)
 
 
 <!-- Support -->
@@ -217,7 +217,7 @@ However, if you are using this project and are happy with it or just want to enc
 Thanks! :heart:
 
 
-![-----------------------------------------------------](assets/rgb.png)
+![-----------------------------------------------------](doc/rgb.png)
 
 
 <!-- License -->
@@ -226,7 +226,7 @@ Thanks! :heart:
 
 ```text
 Apache License 
-Copyright (c) 2022 Abhijeet Srivastav
+Copyright (c) 2022 Arnab Kundu
  
   "License" shall mean the terms and conditions for use, reproduction,
       and distribution as defined by Sections 1 through 9 of this document.
@@ -245,9 +245,9 @@ Copyright (c) 2022 Abhijeet Srivastav
       "You" (or "Your") shall mean an individual or Legal Entity
       exercising permissions granted by this License........
 ```
-[Apache License](https://github.com/AbhijeetSrivastav/Jet-Engine-RUL-Prediction/blob/main/LICENSE)
+[Apache License](https://github.com/Arnab-Hell/Text-Summarisation-with-HuggingFace/blob/main/LICENSE)
 
-![-----------------------------------------------------](assets/rgb.png)
+![-----------------------------------------------------](doc/rgb.png)
 
 
 <!-- Credits -->
