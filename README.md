@@ -81,23 +81,23 @@ representation of the content is built. Then natural language generation mechani
 <h2 id="build-with"> :hammer: Build With</h2>
 
 <a href="https://www.python.org" target="_blank">
-    <img align="left" src="https://github.com/Arnab-Hell/Text-Summarisation-with-HuggingFace/tree/main/doc/Python.png" alt="Python" height ="42px"/>
+    <img align="left" src="doc/Python.png" alt="Python" height ="42px"/>
 </a>
 
 <a href="https://jupyter.org/" target="_blank">
-    <img align="left" src="https://github.com/Arnab-Hell/Text-Summarisation-with-HuggingFace/tree/main/doc/jupyter icon.png" alt="Jupyter" height="42px"/> 
+    <img align="left" src="doc/jupyter icon.png" alt="Jupyter" height="42px"/> 
 </a>
 
 <a href="https://aws.amazon.com/sagemaker/" target="_blank">
-    <img align="left" src="https://github.com/Arnab-Hell/Text-Summarisation-with-HuggingFace/tree/main/doc/aws sagemaker.png" alt="sagemaker" height="42px"/>
+    <img align="left" src="doc/aws sagemaker.png" alt="sagemaker" height="42px"/>
 </a>
 
  <a href="https://git-scm.com/" target="_blank">
-    <img align="left" src="https://github.com/Arnab-Hell/Text-Summarisation-with-HuggingFace/tree/main/doc/github icon.png" alt="git" height='42px'/>
+    <img align="left" src="doc/github icon.png" alt="git" height='42px'/>
 </a>
 
 <a href="https://streamlit.io/" target="_blank">
-    <img align="left" src="https://github.com/Arnab-Hell/Text-Summarisation-with-HuggingFace/tree/main/doc/streamlit icon.png" alt="streamlit" height='42px'/>
+    <img align="left" src="doc/streamlit icon.jpg" alt="streamlit" height='42px'/>
 </a>
 
 
