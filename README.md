@@ -81,23 +81,23 @@ representation of the content is built. Then natural language generation mechani
 <h2 id="build-with"> :hammer: Build With</h2>
 
 <a href="https://www.python.org" target="_blank">
-    <img align="left" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/python/python.svg" alt="Python" height ="42px"/>
+    <img align="left" src="https://github.com/Arnab-Hell/Text-Summarisation-with-HuggingFace/tree/main/doc/Python.png" alt="Python" height ="42px"/>
 </a>
 
 <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank">
-    <img align="left" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/flask/flask.jpg" alt="flask" height="42px"/> 
+    <img align="left" src="https://github.com/Arnab-Hell/Text-Summarisation-with-HuggingFace/tree/main/doc/jupyter icon.png" alt="Jupyter" height="42px"/> 
 </a>
 
 <a href="https://scipy.org/" target="_blank">
-    <img align="left" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/scipy/scipy.png" alt="scipy" height="42px"/>
+    <img align="left" src="https://github.com/Arnab-Hell/Text-Summarisation-with-HuggingFace/tree/main/doc/aws sagemaker.png" alt="sagemaker" height="42px"/>
 </a>
 
  <a href="https://git-scm.com/" target="_blank">
-    <img align="left" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/git-scm/git-scm.svg" alt="git" height='42px'/>
+    <img align="left" src="https://github.com/Arnab-Hell/Text-Summarisation-with-HuggingFace/tree/main/doc/github icon.png" alt="git" height='42px'/>
 </a>
 
 <a href="https://www.docker.com/" target="_blank">
-    <img align="left" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/docker/docker.png" alt="docker" height='42px'/>
+    <img align="left" src="https://github.com/Arnab-Hell/Text-Summarisation-with-HuggingFace/tree/main/doc/streamlit icon.png" alt="streamlit" height='42px'/>
 </a>
 
 
