@@ -84,11 +84,11 @@ representation of the content is built. Then natural language generation mechani
     <img align="left" src="https://github.com/Arnab-Hell/Text-Summarisation-with-HuggingFace/tree/main/doc/Python.png" alt="Python" height ="42px"/>
 </a>
 
-<a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank">
+<a href="https://jupyter.org/" target="_blank">
     <img align="left" src="https://github.com/Arnab-Hell/Text-Summarisation-with-HuggingFace/tree/main/doc/jupyter icon.png" alt="Jupyter" height="42px"/> 
 </a>
 
-<a href="https://scipy.org/" target="_blank">
+<a href="https://aws.amazon.com/sagemaker/" target="_blank">
     <img align="left" src="https://github.com/Arnab-Hell/Text-Summarisation-with-HuggingFace/tree/main/doc/aws sagemaker.png" alt="sagemaker" height="42px"/>
 </a>
 
@@ -96,7 +96,7 @@ representation of the content is built. Then natural language generation mechani
     <img align="left" src="https://github.com/Arnab-Hell/Text-Summarisation-with-HuggingFace/tree/main/doc/github icon.png" alt="git" height='42px'/>
 </a>
 
-<a href="https://www.docker.com/" target="_blank">
+<a href="https://streamlit.io/" target="_blank">
     <img align="left" src="https://github.com/Arnab-Hell/Text-Summarisation-with-HuggingFace/tree/main/doc/streamlit icon.png" alt="streamlit" height='42px'/>
 </a>
 
