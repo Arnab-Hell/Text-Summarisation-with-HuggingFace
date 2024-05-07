@@ -107,18 +107,13 @@ representation of the content is built. Then natural language generation mechani
 <!-- PROJECT FILES DESCRIPTION -->
 <h2 id="project-files-description"> :floppy_disk: Project Files Description</h2>
 
-- **research** - Contains base research paper and `experiments.ipynb` notebook
-- **CMaps** - Data collected on different settings and configurations by NASA
-- **rul** - Contains all the components, configurations, artifacts and pipelines
-  - `components` - Components of Data Pipelines
-  - `entity` - Configuration and artifact entity of components
-  - `pipeline` - Training and Batch pipeline
-  - `config.py` - Configuration of `rul` package
-  - `exception.py` - Exception handler of `rul` package
-  - `logger.py` - Logger of `rul` package
-  - `predictor.py` - Model Resolver
-  - `utils.py` - Collection of utility functions
-- **static** - Static files for flask app
+- **src folder** - The source code folder! However, in languages that use headers (or if you have a framework for your application) don’t put those files in here.
+- **test folder** - Unit tests, integration tests… go here.
+- **.config Folder** - It should contain local configuration related to setup on local machine.
+- **.build Folder** - This folder should contain all scripts related to build process (PowerShell, Docker compose…).
+- **dep folder** - This is the directory where all your dependencies should be stored.
+- **res folder** - For all static resources in your project. For example, images.
+- **samples folder** - Providing “Hello World” & Co code that supports the documentation.
 - **templates** - Templates of flask app
   
 
