@@ -76,6 +76,14 @@ representation of the content is built. Then natural language generation mechani
 
 ![-----------------------------------------------------](doc/rgb.png)
 
+<!-- DATA DESCRIPTION -->
+<h2 id="dataset"> :cloud: Dataset</h2>
+<p align="justify"> 
+  The data we will use is the arXiv dataset which contains abstracts of arXiv papers as well as their titles. For our purpose we will use the abstract as the text we want to summarise and the title as the reference summary. 
+  Link to download the data locally: https://www.kaggle.com/datasets/Cornell-University/arxiv
+</p>
+
+![-----------------------------------------------------](doc/rgb.png)
 
 <!-- BUILD WITH -->
 <h2 id="build-with"> :hammer: Build With</h2>
