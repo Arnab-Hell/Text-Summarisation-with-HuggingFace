@@ -134,7 +134,7 @@ representation of the content is built. Then natural language generation mechani
 This is how you can set up your project locally. To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
-<pre><code>$ git clone https://github.com/AbhijeetSrivastav/Jet-Engine-RUL-Prediction.git</code></pre>
+<pre><code>$ git clone https://github.com/Arnab-Hell/Text-Summarisation-with-HuggingFace.git</code></pre>
 
 2. Create conda environment
 <pre><code>$ conda create -n jet-rul</code></pre>
@@ -150,9 +150,6 @@ This is how you can set up your project locally. To get a local copy up and runn
 
 6. Run flask app to get access to pipelines UI
 <pre><code>$ python app.py </code></pre>
-
-
-**Note:-** After step 5 make sure to create your MongoDB database and dump the base dataset `rul.csv` in it using `data_dump.py` script after updating MongoDb client in it and also don't forget to create `.env` file and mention your MongoDb credential within it which are accessed by the `config.py` in `rul` package to run the pipelines. 
 
 
 ![-----------------------------------------------------](doc/rgb.png)
